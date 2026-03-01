@@ -29,6 +29,14 @@ Turkish Natural Language Resources in NlpToolkit
 
 36 NLP code libraries 
 
+### LLM
+
+1. Tensor v1.0.0 [![Java](java.png)](https://github.com/StarlangSoftware/Math)[![c++](cpp.png)](https://github.com/StarlangSoftware/Math-CPP)[![c#](cs.png)](https://github.com/StarlangSoftware/Math-CS)[![python](python.jpeg)](https://github.com/StarlangSoftware/Math-Py)[![cython](cython.jpeg)](https://github.com/StarlangSoftware/Math-Cy)[![c](c.png)](https://github.com/StarlangSoftware/Math-C)
+
+2. ComputationalGraph v1.0.0 [![Java](java.png)](https://github.com/StarlangSoftware/ComputationalGraph)[![c++](cpp.png)](https://github.com/StarlangSoftware/ComputationalGraph-CPP)[![c#](cs.png)](https://github.com/StarlangSoftware/ComputationalGraph-CS)[![python](python.jpeg)](https://github.com/StarlangSoftware/ComputationalGraph-Py)[![cython](cython.jpeg)](https://github.com/StarlangSoftware/ComputationalGraph-Cy)[![c](c.png)](https://github.com/StarlangSoftware/ComputationalGraph-C)
+
+3. SequenceProcessing v1.0.0 [![Java](java.png)](https://github.com/StarlangSoftware/SequenceProcessing)[![c++](cpp.png)](https://github.com/StarlangSoftware/SequenceProcessing-CPP)[![c#](cs.png)](https://github.com/StarlangSoftware/SequenceProcessing-CS)[![python](python.jpeg)](https://github.com/StarlangSoftware/SequenceProcessing-Py)[![cython](cython.jpeg)](https://github.com/StarlangSoftware/SequenceProcessing-Cy)[![c](c.png)](https://github.com/StarlangSoftware/SequenceProcessing-C)
+ 
 ### Word Level Analysis
 
 1. Morphological Analysis Dilbaz v1.0.35 [![Java](java.png)](https://github.com/StarlangSoftware/TurkishMorphologicalAnalysis)[![c++](cpp.png)](https://github.com/StarlangSoftware/TurkishMorphologicalAnalysis-CPP)[![c#](cs.png)](https://github.com/StarlangSoftware/TurkishMorphologicalAnalysis-CS)[![swift](swift.jpeg)](https://github.com/StarlangSoftware/TurkishMorphologicalAnalysis-Swift)[![python](python.jpeg)](https://github.com/StarlangSoftware/TurkishMorphologicalAnalysis-Py)[![cython](cython.jpeg)](https://github.com/StarlangSoftware/TurkishMorphologicalAnalysis-Cy)[![c](c.png)](https://github.com/StarlangSoftware/TurkishMorphologicalAnalysis-C)[![php](php.png)](https://github.com/StarlangSoftware/TurkishMorphologicalAnalysis-Php)[![js](javascript.png)](https://github.com/StarlangSoftware/TurkishMorphologicalAnalysis-Js)
