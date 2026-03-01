@@ -27,7 +27,7 @@ Turkish Natural Language Resources in NlpToolkit
 
 ## Overview of Library
 
-36 NLP code libraries 
+40 NLP code libraries 
 
 ### LLM
 
@@ -66,6 +66,7 @@ Turkish Natural Language Resources in NlpToolkit
 1. DataStructure v1.0.4 [![Java](java.png)](https://github.com/StarlangSoftware/DataStructure)[![c++](cpp.png)](https://github.com/StarlangSoftware/DataStructure-CPP)[![c#](cs.png)](https://github.com/StarlangSoftware/DataStructure-CS)[![swift](swift.jpeg)](https://github.com/StarlangSoftware/DataStructure-Swift)[![python](python.jpeg)](https://github.com/StarlangSoftware/DataStructure-Py)[![cython](cython.jpeg)](https://github.com/StarlangSoftware/DataStructure-Cy)[![c](c.png)](https://github.com/StarlangSoftware/DataStructure-C)[![js](javascript.png)](https://github.com/StarlangSoftware/DataStructure-Js)[![php](php.png)](https://github.com/StarlangSoftware/DataStructure-Php)
 2. Math v1.0.4 [![Java](java.png)](https://github.com/StarlangSoftware/Math)[![c++](cpp.png)](https://github.com/StarlangSoftware/Math-CPP)[![c#](cs.png)](https://github.com/StarlangSoftware/Math-CS)[![swift](swift.jpeg)](https://github.com/StarlangSoftware/Math-Swift)[![python](python.jpeg)](https://github.com/StarlangSoftware/Math-Py)[![cython](cython.jpeg)](https://github.com/StarlangSoftware/Math-Cy)[![c](c.png)](https://github.com/StarlangSoftware/Math-C)[![js](javascript.png)](https://github.com/StarlangSoftware/Math-Js)[![php](php.png)](https://github.com/StarlangSoftware/Math-Php)
 3. Utils v1.0.3 [![Java](java.png)](https://github.com/StarlangSoftware/Util)[![c++](cpp.png)](https://github.com/StarlangSoftware/Util-CPP)[![c#](cs.png)](https://github.com/StarlangSoftware/Util-CS)[![swift](swift.jpeg)](https://github.com/StarlangSoftware/Util-Swift)[![python](python.jpeg)](https://github.com/StarlangSoftware/Util-Py)[![cython](cython.jpeg)](https://github.com/StarlangSoftware/Util-Cy)[![c](c.png)](https://github.com/StarlangSoftware/Util-C)[![js](javascript.png)](https://github.com/StarlangSoftware/Util-Js)[![php](php.png)](https://github.com/StarlangSoftware/Util-Php)
+4. Xml Parser v1.0.6 [![Java](java.png)](https://github.com/StarlangSoftware/XmlParser)[![c++](cpp.png)](https://github.com/StarlangSoftware/XmlParser-CPP)[![c](c.png)](https://github.com/StarlangSoftware/XmlParser-C)[![js](javascript.png)](https://github.com/StarlangSoftware/Util-Js)[![php](php.png)](https://github.com/StarlangSoftware/Util-Php)
 
 ### Basic Algorithms
 
